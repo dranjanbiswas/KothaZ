@@ -1,0 +1,21 @@
+WINDOWS 10 EASY COMMANDS
+========================
+
+1) ZIP extract করুন।
+2) KothaZ_ONE_CLICK_FINAL_WINDOWS10 folder open করুন।
+3) ONE_CLICK_UPLOAD_TO_GITHUB.bat double click করুন।
+
+Alternative CMD command:
+
+cd /d C:\Path\To\KothaZ_ONE_CLICK_FINAL_WINDOWS10
+ONE_CLICK_UPLOAD_TO_GITHUB.bat
+
+After upload:
+
+Open JitPack:
+https://jitpack.io/#dranjanbiswas/KothaZ/v1.1.0
+
+Click: Get it
+
+Final dependency:
+implementation 'com.github.dranjanbiswas:KothaZ:v1.1.0'

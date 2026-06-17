@@ -1,0 +1,4 @@
+﻿jdk:
+  - openjdk17
+install:
+  - gradle clean :kothaz:assembleRelease :kothaz:publishReleasePublicationToMavenLocal
